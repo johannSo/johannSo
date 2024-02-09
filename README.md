@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @johannSo
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning to Code
-- 📫 How to reach me topferharald642@gmail.com
+Nothing here to see
