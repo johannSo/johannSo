@@ -8,6 +8,12 @@
 
 
 <p align="center">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=&pause=1000&color=1AF718&width=435&lines=Linux;Python;Bash" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/johannSo">
     <img src="[https://readme-typing-svg.demolab.com/?font=&pause=1000&color=1AF718&width=435&lines=Linux;Python;Bash]" />
   </a>
