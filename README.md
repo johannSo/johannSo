@@ -31,3 +31,7 @@
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/johannSo/count.svg"/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannSo&theme=shadow_blue&layout=compact"48%"/> 
+</p> 
