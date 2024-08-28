@@ -1,8 +1,10 @@
-<p align="center">
-    <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
-        </a>
-</p>
+# Hi, i'am Jo 
 
+<p align="center">
+    <a href="" target="_blank">
+        <img src="https://media.giphy.com/media/146gtxJUW6IR7W/giphy.gif?cid=82a1493bo3e28rrswn7zm98v98k2ggh89ovcybvmsa6ygtqv&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="120" height="120" alt="Description of the image">
+    </a>
+</p>
 
 
 <p align="center">
