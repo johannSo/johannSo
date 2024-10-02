@@ -1,4 +1,4 @@
-# Hi, i'am Jo 
+# Hi, I'am Jo 
 
 <p align="center">
     <a href="" target="_blank">
